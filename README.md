@@ -1,4 +1,6 @@
 <h2>FOR FIRST-TIME INSTALLATION</h2>
+<p>Please ensure .env files are placed in root path for frontend and backend</p>
+
 <h3>Frontend:</h3>
 
 <p>To install frontend dependencies:</p>
